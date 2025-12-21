@@ -33,14 +33,3 @@ V3DTILES
   + 场景光照
   + 地形处理
 
-## 用户交流群
-
-<div></div>
-
-<div align="center">
-   <img src="https://dl.v3dtiles.top:51020/staticfiles/image/qr-code/wechat-group.jpg" width="300"  />
-   &nbsp;&nbsp;
-   &nbsp;&nbsp;
-   <img src="https://dl.v3dtiles.top:51020/staticfiles/image/qr-code/qq-group.jpg" width="300"  />
-</div>
-<br />
