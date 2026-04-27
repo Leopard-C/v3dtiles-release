@@ -2,15 +2,38 @@
 
 [English](./README.md) | 简体中文
 
-一款支持矢量数据转3DTiles、倾斜模型转3DTiles、倾斜模型裁切、点云转3DTiles、遥感影像切片、地形切片的软件。
+<div>
+  <a href="https://github.com/EcoPasteHub/EcoPaste/releases">
+    <img
+      alt="Windows"
+      src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB0PSIxNzI2MzA1OTcxMDA2IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjE1NDgiIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4Ij48cGF0aCBkPSJNNTI3LjI3NTU1MTYxIDk2Ljk3MTAzMDEzdjM3My45OTIxMDY2N2g0OTQuNTEzNjE5NzVWMTUuMDI2NzU3NTN6TTUyNy4yNzU1NTE2MSA5MjguMzIzNTA4MTVsNDk0LjUxMzYxOTc1IDgwLjUyMDI4MDQ5di00NTUuNjc3NDcxNjFoLTQ5NC41MTM2MTk3NXpNNC42NzA0NTEzNiA0NzAuODMzNjgyOTdINDIyLjY3Njg1OTI1VjExMC41NjM2ODE5N2wtNDE4LjAwNjQwNzg5IDY5LjI1Nzc5NzUzek00LjY3MDQ1MTM2IDg0Ni43Njc1OTcwM0w0MjIuNjc2ODU5MjUgOTE0Ljg2MDMxMDEzVjU1My4xNjYzMTcwM0g0LjY3MDQ1MTM2eiIgcC1pZD0iMTU0OSIgZmlsbD0iI2ZmZmZmZiI+PC9wYXRoPjwvc3ZnPg=="
+    />
+  </a>
+  <a href="https://github.com/EcoPasteHub/EcoPaste/releases">
+    <img
+      alt="Linux"
+      src="https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux&logoColor=white"
+    />
+  </a>
+</div>
 
-软件体积小，数据处理速度快。
+一款支持矢量数据转3DTiles、倾斜模型转3DTiles、倾斜模型裁切、点云转3DTiles、遥感影像切片、地形切片的软件。
 
 提供 HTTP 接口，同时内置完善的 WebGUI 页面。
 
+软件体积小，数据处理速度快。
+
+
+## 网站
+
 软件官网：https://v3dtiles.top
 
-用户手册: [飞书云文档-V3DTILES软件用户手册](https://v3dtiles.feishu.cn/docx/AaVtd5PjpoikP2xoV73cnM5qnue)
+
+## 文档
+
+用户手册: [飞书云文档 - V3DTILES软件用户手册](https://v3dtiles.top/doc)
+
+API文档: [Apifox分享文档 - V3DTILES API 文档](https://v3dtiles.apifox.cn)
 
 
 ## 主要功能

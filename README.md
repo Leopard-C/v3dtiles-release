@@ -2,15 +2,38 @@
 
 English | [简体中文](./README_zh-CN.md)
 
-A software that supports vector data to 3DTiles, oblique photogrammetry (osgb) model to 3DTiles, oblique model clipping, point cloud to 3DTiles, image tiling, and terrain tiling.
+<div>
+  <a href="https://github.com/EcoPasteHub/EcoPaste/releases">
+    <img
+      alt="Windows"
+      src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB0PSIxNzI2MzA1OTcxMDA2IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjE1NDgiIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4Ij48cGF0aCBkPSJNNTI3LjI3NTU1MTYxIDk2Ljk3MTAzMDEzdjM3My45OTIxMDY2N2g0OTQuNTEzNjE5NzVWMTUuMDI2NzU3NTN6TTUyNy4yNzU1NTE2MSA5MjguMzIzNTA4MTVsNDk0LjUxMzYxOTc1IDgwLjUyMDI4MDQ5di00NTUuNjc3NDcxNjFoLTQ5NC41MTM2MTk3NXpNNC42NzA0NTEzNiA0NzAuODMzNjgyOTdINDIyLjY3Njg1OTI1VjExMC41NjM2ODE5N2wtNDE4LjAwNjQwNzg5IDY5LjI1Nzc5NzUzek00LjY3MDQ1MTM2IDg0Ni43Njc1OTcwM0w0MjIuNjc2ODU5MjUgOTE0Ljg2MDMxMDEzVjU1My4xNjYzMTcwM0g0LjY3MDQ1MTM2eiIgcC1pZD0iMTU0OSIgZmlsbD0iI2ZmZmZmZiI+PC9wYXRoPjwvc3ZnPg=="
+    />
+  </a>
+  <a href="https://github.com/EcoPasteHub/EcoPaste/releases">
+    <img
+      alt="Linux"
+      src="https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux&logoColor=white"
+    />
+  </a>
+</div>
 
-Small in size, fast in processing.
+A software that supports vector data to 3DTiles, oblique photogrammetry (osgb) model to 3DTiles, oblique model clipping, point cloud to 3DTiles, image tiling, and terrain tiling.
 
 Provides HTTP API, along with a built-in comprehensive WebGUI interface.
 
+Small in size, fast in processing.
+
+
+## Site
+
 Official Website：https://v3dtiles.top
 
-User Manual: [Feishu Docs - V3DTILES Software User Manual](https://v3dtiles.feishu.cn/docx/AaVtd5PjpoikP2xoV73cnM5qnue)
+
+# Documentation
+
+User Manual: [Feishu Docs - V3DTILES Software User Manual](https://v3dtiles.top/doc)
+
+API Documentation: [Apifox Shared Doc - V3DTILES API Doc](https://v3dtiles.apifox.cn)
 
 
 ## Main Features
