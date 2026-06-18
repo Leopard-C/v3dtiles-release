@@ -17,7 +17,7 @@
   </a>
 </div>
 
-一款支持矢量数据转3DTiles、倾斜模型转3DTiles、倾斜模型裁切、点云转3DTiles、遥感影像切片、地形切片的软件。
+一款支持矢量数据转3DTiles、倾斜模型转3DTiles、倾斜模型裁切、点云转3DTiles、遥感影像切片、地形切片、通用模型切片的软件。
 
 提供 HTTP 接口，同时内置完善的 WebGUI 页面。
 
@@ -45,9 +45,11 @@ API文档: [Apifox分享文档 - V3DTILES API 文档](https://v3dtiles.apifox.cn
   + 点云转3DTiles
   + 遥感影像按照XYZ或TMS格式切片
   + 地形数据切片 (quantized-mesh-1.0)
+  + 通用模型切片
 + 切片任务管理
   + 执行中任务
   + 已执行任务
++ API集成 (创建API Key，接入到业务系统，自动化切片)
 + 统计分析
 + 服务分发
   + 单文件/文件夹

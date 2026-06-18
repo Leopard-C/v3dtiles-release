@@ -17,7 +17,7 @@ English | [简体中文](./README_zh-CN.md)
   </a>
 </div>
 
-A software that supports vector data to 3DTiles, oblique photogrammetry (osgb) model to 3DTiles, oblique model clipping, point cloud to 3DTiles, image tiling, and terrain tiling.
+A software that supports vector data to 3DTiles, oblique photogrammetry (osgb) model to 3DTiles, oblique model clipping, point cloud to 3DTiles, image tiling, terrain tiling and general model tiling.
 
 Provides HTTP API, along with a built-in comprehensive WebGUI interface.
 
@@ -45,9 +45,11 @@ API Documentation: [Apifox Shared Doc - V3DTILES API Doc](https://v3dtiles.apifo
   + Point cloud to 3DTiles
   + Tile images in XYZ or TMS format
   + Terrain data tiling (quantized-mesh-1.0)
+  + General model tiling
 + Tiling Task Management
   + Running tasks
   + Completed tasks
++ API Integration​ (Create API Key, integrate with business systems, and automate tiling)
 + Statistical Analysis
 + Service Distribution
   + Single file/folder
