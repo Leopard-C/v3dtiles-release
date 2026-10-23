@@ -17,23 +17,25 @@ English | [简体中文](./README_zh-CN.md)
   </a>
 </div>
 
-A software that supports vector data to 3DTiles, oblique photogrammetry (osgb) model to 3DTiles, oblique model clipping, point cloud to 3DTiles, image tiling, terrain tiling and general model tiling.
-
-Provides HTTP API, along with a built-in comprehensive WebGUI interface.
+A software that supports vector data to 3DTiles, oblique photogrammetry (osgb) model to 3DTiles, oblique model clipping, point cloud to 3DTiles, Gaussian splatting (3DGS) to 3DTiles, remote sensing image tiling, terrain tiling and general model tiling.
 
 Small in size, fast in processing.
+
++ **GUI** - Provides a WebGUI for visual operation (`http://127.0.0.1:7760`), also accessible from other devices on the LAN via IP.
++ **API** - Provides a set of APIs, which can be integrated into business systems to automate tiling.
++ **AI** - Provides MCP service and SKILL\.md, which can be integrated into agents such as Workbuddy and Claude Code.
 
 
 ## Site
 
-Official Website：https://v3dtiles.top
++ Official Website：https://v3dtiles.top
 
 
 ## Documentation
 
-User Manual: [Feishu Docs - V3DTILES Software User Manual](https://v3dtiles.top/doc)
++ User Manual: [Feishu Docs - V3DTILES Software User Manual](https://v3dtiles.top/doc)
 
-API Documentation: [Apifox Shared Doc - V3DTILES API Doc](https://v3dtiles.apifox.cn)
++ API Documentation: [Apifox Shared Doc - V3DTILES API Doc](https://v3dtiles.apifox.cn)
 
 
 ## Main Features
@@ -43,6 +45,7 @@ API Documentation: [Apifox Shared Doc - V3DTILES API Doc](https://v3dtiles.apifo
   + Convert oblique photogrammetry (osgb) data to 3DTiles
   + Oblique model clipping (precise clipping by polygon extent)
   + Point cloud to 3DTiles
+  + Gaussian splatting (3DGS) to 3DTiles
   + Tile images in XYZ or TMS format
   + Terrain data tiling (quantized-mesh-1.0)
   + General model tiling
@@ -50,6 +53,7 @@ API Documentation: [Apifox Shared Doc - V3DTILES API Doc](https://v3dtiles.apifo
   + Running tasks
   + Completed tasks
 + API Integration​ (Create API Key, integrate with business systems, and automate tiling)
++ MCP Service & SKILL Skills (complete tiling through natural language conversation)
 + Statistical Analysis
 + Service Distribution
   + Single file/folder
@@ -64,3 +68,10 @@ API Documentation: [Apifox Shared Doc - V3DTILES API Doc](https://v3dtiles.apifo
   + Weather simulation
   + Scene lighting
   + Terrain processing
++ System Settings
+  + HTTP server configuration
+  + IP blacklist/whitelist
+  + Input/output directory permission configuration
+  + Network proxy
+
+## END
